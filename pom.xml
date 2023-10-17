@@ -27,6 +27,11 @@
 			<artifactId>deeplearning4j-core</artifactId>
 			<version>1.0.0-M2.1</version>
 		</dependency>
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<scope>provided</scope>
+		</dependency>
 	</dependencies>
 
 	<build>
