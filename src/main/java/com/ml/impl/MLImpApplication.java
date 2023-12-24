@@ -34,7 +34,6 @@ public class MLImpApplication {
 	        int batchSize = 64; // Test batch size
 	        int nEpochs = 1; // Number of training epochs
 	        int seed = 123; //
-
 	        /*
 	            Create an iterator using the batch size for one iteration
 	         */
