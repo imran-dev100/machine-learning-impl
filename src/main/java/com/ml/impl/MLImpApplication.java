@@ -40,7 +40,6 @@ public class MLImpApplication {
 	        log.info("Load data....");
 	        DataSetIterator mnistTrain = new MnistDataSetIterator(batchSize,true,12345);
 	        DataSetIterator mnistTest = new MnistDataSetIterator(batchSize,false,12345);
-
 	        /*
 	            Construct the neural network
 	         */
