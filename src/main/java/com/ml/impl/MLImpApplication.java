@@ -2,7 +2,6 @@ package com.ml.impl;
 
 import java.io.File;
 import java.io.IOException;
-
 import org.apache.commons.io.FilenameUtils;
 import org.deeplearning4j.datasets.iterator.impl.MnistDataSetIterator;
 import org.deeplearning4j.nn.conf.MultiLayerConfiguration;
