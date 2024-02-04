@@ -23,6 +23,7 @@ import org.nd4j.linalg.learning.config.Adam;
 import org.nd4j.linalg.lossfunctions.LossFunctions;
 import lombok.extern.slf4j.Slf4j;
 
+
 @Slf4j
 public class MLImpApplication {
 
