@@ -28,7 +28,7 @@ import lombok.extern.slf4j.Slf4j;
 public class MLImpApplication {
 
 	public static void main(String[] args) throws IOException {
-		   int nChannels = 1; // Number of input channels
+		int nChannels = 1; // Number of input channels
 	        int outputNum = 10; // The number of possible outcomes
 	        int batchSize = 64; // Test batch size
 	        int nEpochs = 1; // Number of training epochs
