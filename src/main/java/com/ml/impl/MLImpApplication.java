@@ -34,7 +34,7 @@ public class MLImpApplication {
 	        int nEpochs = 1; // Number of training epochs
 	        int seed = 123; //
 	        /*
-	            Create an iterator using the batch size for one iteration
+	         Create an iterator using the batch size for one iteration
 	         */
 	        log.info("Load data....");
 	        DataSetIterator mnistTrain = new MnistDataSetIterator(batchSize,true,12345);
