@@ -105,7 +105,6 @@ public class MLImpApplication {
 
 	        log.info("Saving model to tmp folder: "+path);
 	        model.save(new File(path), true);
-
 	
 	}
  
